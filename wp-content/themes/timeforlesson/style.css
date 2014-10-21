@@ -14,3 +14,10 @@
 .site-footer .site-info {
     display: none;
 }
+
+.social-icon a{
+    background-image:url(images/social.png);
+}
+.social-icon a {
+    background-image:url(images/social.png);
+}
